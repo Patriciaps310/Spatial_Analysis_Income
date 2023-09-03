@@ -12,6 +12,12 @@ interventions.
 Identify clusters of income disparity within Portuguese regions using Moran's I,a 
 spatial autocorrelation statistic, which will help us uncover spatial patterns. 
 
+## Data Source:
+Data on income was gathered from PORDATA, a database for Portuguese statistics.
+![pordata](images/pordata.png)
+
+Geojson of Portuguese parishes came from @nmota
+
 ## Exploratory Spatial Data Analysis:
 We start by conducting an EDA to gain insights into the 
 income data distribution and its spatial characteristics.
